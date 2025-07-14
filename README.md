@@ -2,7 +2,7 @@
 # 🎯 Adivina el Número
 
 Juego web interactivo donde el objetivo es adivinar un número secreto entre **1 y 100**.  
-Tienes **5 intentos** para lograrlo. Cada intento te da una pista. ¿Puedes ganarle al azar?
+Tienes **5 intentos** para lograrlo. Cada intento te da una pista. ¿Puedes ganar?
 
 ---
 
@@ -16,7 +16,7 @@ Tienes **5 intentos** para lograrlo. Cada intento te da una pista. ¿Puedes gana
 
 ## 🚀 Demo en vivo
 
-🔗 [Juega aquí](https://Elkinml06.github.io/adivina-el-numero)
+🔗 [Juega aquí](https://elkinml06.github.io/adivina-el-numero/)
 
 ---
 
@@ -66,4 +66,4 @@ Este proyecto está bajo la Licencia MIT. Puedes usarlo y modificarlo libremente
 
 ## ✍️ Autor
 
-Desarrollado con ❤️ por [@Elkinml06](https://github.com/Elkinml06)
+Desarrollado por [@Elkinml06](https://github.com/Elkinml06)
