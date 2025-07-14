@@ -14,7 +14,7 @@ Tienes **5 intentos** para lograrlo. Cada intento te da una pista. ¿Puedes gana
 
 ---
 
-## 🚀 Demo en vivo
+## 🚀 Demo 
 
 🔗 [Juega aquí](https://elkinml06.github.io/adivina-el-numero/)
 
